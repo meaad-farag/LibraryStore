@@ -9,7 +9,6 @@
 This application serves as a practical showcase of my skills in web development using the standard XAMPP environment.
 
 [cite\_start]**Developed by:** Meaad Farag [cite: 1]
-[cite\_start]**ID:** 190706821 [cite: 2]
 
 ##  Technologies Used
 
@@ -67,7 +66,8 @@ Once the database import is complete, access the application via your web browse
 http://localhost/e-commerce/
 ```
 
-**Default Admin Login:** Please refer to the initial `INSERT` statement in the `book-store.sql` file for the default administrator credentials.
+**Default Admin Login:** Please refer to the initial `INSERT` statement in the `book-store.sql` file for the default administrator credentials,
+Or register as a new admin and then log in using the new username and password you registered with.
 
 ##  Key Project Files
 
